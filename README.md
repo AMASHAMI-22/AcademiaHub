@@ -16,3 +16,4 @@ AcademiaHub is a comprehensive university portal designed to provide students an
 
 ## How to Run
 Simply open the `index.html` file in any modern web browser to view the website.
+http://127.0.0.1:5500/indext.html
